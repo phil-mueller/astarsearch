@@ -6,7 +6,7 @@ The original starter code is provided under https://github.com/udacity/CppND-Rou
 
 <img src="map.png" width="600" height="450" />
 
-## Dependencies for Running Locally
+## Dependencies and Requirements
 * cmake >= 3.11.3
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
