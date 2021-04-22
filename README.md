@@ -1,9 +1,9 @@
 # Route Planning Project
 
-This repo contains an example project to show the implementation of the A* search algorithm to do route planning on an OpenStreetMaps dataset. The project is based upon the Udacity "C++ Nanodegree" program. 
+This repo contains an example project to show the implementation of the A* search algorithm to do route planning on an OpenStreetMaps dataset. The project is based upon the Udacity "C++ Nanodegree" program. An example of such a route between two points created by the algorithm is shown below.
 The original starter code is provided under https://github.com/udacity/CppND-Route-Planning-Project.git
 
-An example of such an route between two points created by the algorithm is shown below.
+
 <img src="map.png" width="600" height="450" />
 
 ## Dependencies for Running Locally
